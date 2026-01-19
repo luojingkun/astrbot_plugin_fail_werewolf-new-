@@ -1,0 +1,26 @@
+{
+  "astrbot_plugin_fail_werewolf": {
+    "enabled": true,
+    "min_players": 6,
+    "max_players": 12,
+    "night_timeout": 120,
+    "day_timeout": 180,
+    "vote_timeout": 60,
+    "enable_private_chat": true,
+    "show_role_death": true,
+    "allow_revote": false,
+    "roles": {
+      "bad_student": 2,
+      "academic_affairs": 1,
+      "teacher": 1,
+      "scholarship": 1,
+      "teaching_assistant": 1,
+      "exchange_student": 0,
+      "repeater": 0,
+      "academic_warning": 0,
+      "librarian": 0,
+      "student_union": 0,
+      "cheater": 0
+    }
+  }
+}
